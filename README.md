@@ -140,9 +140,6 @@ urls.py is the URL configuration file. This is the file that allows you to map a
 
 ## Authors
 
-- [A Kirthic Vishnu]
-- [Adharsh S]
-- [Aditya Sriram]
 - [K Sandeep Kumar]
-- [Kumaresh S]
+
 
